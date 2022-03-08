@@ -1,0 +1,38 @@
+EmpID,EMP_NAME,DEPT_ID,Dept_name,location,travel_required
+677509,Lois,10,Finance,CHICAGO,no
+940761,Brenda,10,Finance,CHICAGO,no
+428945,Joe,10,Finance,NEW YORK,no
+408351,Diane,20,Tech,DALLAS,no
+193819,Benjamin,20,Tech,CHICAGO,no
+499687,Patrick,20,Tech,DALLAS,yes
+539712,Nancy,30,HR,NEW YORK,no
+380086,Carol,30,HR,CHICAGO,no
+477616,Frances,30,HR,NEW YORK,no
+162402,Diana,30,HR,DALLAS,no
+231469,Ralph,30,HR,DALLAS,yes
+153989,Jack,10,Finance,CHICAGO,yes
+386158,Melissa,20,Tech,CHICAGO,yes
+301576,Wayne,20,Tech,DALLAS,yes
+441771,Cheryl,20,Tech,CHICAGO,yes
+528509,Paula,20,Tech,CHICAGO,no
+912990,Joshua,10,Finance,NEW YORK,no
+214352,Theresa,30,HR,DALLAS,no
+890290,Julia,10,Finance,CHICAGO,no
+622406,Thomas,20,Tech,DALLAS,no
+979607,Carol,20,Tech,DALLAS,yes
+969580,Matthew,20,Tech,CHICAGO,no
+426038,Joan,20,Tech,CHICAGO,yes
+388642,Ruby,10,Finance,NEW YORK,yes
+560455,Carolyn,30,HR,DALLAS,no
+477253,Anne,30,HR,CHICAGO,no
+263480,Daniel,30,HR,DALLAS,no
+683826,Roger,10,Finance,DALLAS,no
+474599,Maria,10,Finance,DALLAS,no
+335732,Brenda,20,Tech,CHICAGO,no
+329752,Lillian,20,Tech,CHICAGO,yes
+893212,Amy,30,HR,DALLAS,yes
+621833,Gregory,30,HR,CHICAGO,yes
+456747,Roy,20,Tech,NEW YORK,no
+100,Ajay,10,Finance,Pune,yes
+101,Sumit,20,Tech,Mumbai,yes
+102,Rekha,30,HR,Hyderabad,no

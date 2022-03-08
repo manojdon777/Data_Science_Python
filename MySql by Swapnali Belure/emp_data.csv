@@ -1,0 +1,101 @@
+EmpID,FName,LName,Gender,EMail,Salary,LOC,MGR_ID,DEPT_ID
+677509,Lois,Walker,F,lois.walker@hotmail.com,168251,DALLAS,677509,10
+940761,Brenda,Robinson,F,brenda.robinson@gmail.com,51063,CHICAGO,940761,10
+428945,Joe,Robinson,M,joe.robinson@gmail.com,50155,CHICAGO,428945,10
+408351,Diane,Evans,F,diane.evans@yahoo.com,180294,NEW YORK,408351,20
+193819,Benjamin,Russell,M,benjamin.russell@charter.net,117642,DALLAS,193819,20
+499687,Patrick,Bailey,M,patrick.bailey@aol.com,72305,CHICAGO,499687,20
+539712,Nancy,Baker,F,nancy.baker@bp.com,98189,DALLAS,539712,30
+380086,Carol,Murphy,F,carol.murphy@gmail.com,60918,NEW YORK,380086,30
+477616,Frances,Young,F,frances.young@gmail.com,121587,CHICAGO,477616,30
+162402,Diana,Peterson,F,diana.peterson@hotmail.co.uk,43010,NEW YORK,,30
+231469,Ralph,Flores,M,ralph.flores@yahoo.com,118457,DALLAS,,30
+153989,Jack,Alexander,M,jack.alexander@gmail.com,82965,DALLAS,,10
+386158,Melissa,King,F,melissa.king@comcast.net,166892,CHICAGO,,20
+301576,Wayne,Watson,M,wayne.watson@gmail.com,92758,CHICAGO,,20
+441771,Cheryl,Scott,F,cheryl.scott@gmail.com,92220,DALLAS,,20
+528509,Paula,Diaz,F,paula.diaz@gmail.com,152654,CHICAGO,,20
+912990,Joshua,Stewart,M,joshua.stewart@yahoo.ca,184896,CHICAGO,,10
+214352,Theresa,Lee,F,theresa.lee@gmail.com,197537,NEW YORK,,30
+890290,Julia,Scott,F,julia.scott@apple.com,141518,DALLAS,,10
+622406,Thomas,Lewis,M,thomas.lewis@gmail.com,73862,CHICAGO,,20
+979607,Carol,Edwards,F,carol.edwards@msn.com,93967,DALLAS,,20
+969580,Matthew,Turner,M,matthew.turner@gmail.com,52237,DALLAS,,20
+426038,Joan,Stewart,F,joan.stewart@yahoo.com,111673,CHICAGO,,20
+388642,Ruby,Rogers,F,ruby.rogers@gmail.com,160623,CHICAGO,,10
+560455,Carolyn,Hayes,F,carolyn.hayes@hotmail.co.uk,42005,NEW YORK,,30
+477253,Anne,Russell,F,anne.russell@ibm.com,103160,DALLAS,,30
+263480,Daniel,Cooper,M,daniel.cooper@yahoo.com,153790,CHICAGO,,30
+683826,Roger,Roberts,M,roger.roberts@gmail.com,129625,DALLAS,,10
+474599,Maria,Walker,F,maria.walker@microsoft.com,48944,DALLAS,,10
+335732,Brenda,Butler,F,brenda.butler@gmail.com,60508,DALLAS,,20
+329752,Lillian,Brown,F,lillian.brown@aol.com,67251,CHICAGO,,20
+893212,Amy,Howard,F,amy.howard@aol.com,112715,CHICAGO,,30
+621833,Gregory,Edwards,M,gregory.edwards@outlook.com,169245,DALLAS,,30
+456747,Roy,Griffin,M,roy.griffin@yahoo.com,170895,CHICAGO,,20
+278556,Richard,Mitchell,M,richard.mitchell@verizon.net,122226,NEW YORK,,10
+333476,Mary,Wilson,F,mary.wilson@sbcglobal.net,109394,DALLAS,,10
+218791,Aaron,Price,M,aaron.price@bp.com,54402,CHICAGO,,10
+134841,Donna,Brown,F,donna.brown@aol.com,129836,DALLAS,,20
+726264,Carl,Collins,M,carl.collins@yahoo.com,162159,NEW YORK,,20
+766610,Joyce,Jenkins,F,joyce.jenkins@aol.com,119321,CHICAGO,,20
+923947,Mary,Bryant,F,mary.bryant@verizon.net,155442,NEW YORK,,30
+227922,Amanda,Hughes,F,amanda.hughes@rediffmail.com,114257,DALLAS,,30
+265813,Jack,Campbell,M,jack.campbell@gmail.com,186280,CHICAGO,,30
+247137,Alan,Rivera,M,alan.rivera@apple.com,154810,DALLAS,,30
+407061,Elizabeth,Jackson,F,elizabeth.jackson@aol.com,85420,DALLAS,,30
+226714,Nancy,Davis,F,nancy.davis@ibm.com,94986,CHICAGO,,10
+702813,Ernest,Martinez,M,ernest.martinez@gmail.com,172098,CHICAGO,,20
+524896,Judy,Hernandez,F,judy.hernandez@gmail.com,133332,NEW YORK,,20
+363065,Nancy,Jones,F,nancy.jones@gmail.com,61924,NEW YORK,,20
+879753,Pamela,Wright,F,pamela.wright@aol.com,149262,DALLAS,,20
+958326,Larry,Miller,M,larry.miller@shell.com,97904,DALLAS,,10
+447813,Ann,Coleman,F,ann.coleman@ibm.com,130014,CHICAGO,,30
+525955,Judy,Gonzales,F,judy.gonzales@gmail.com,149575,CHICAGO,,10
+818384,Peter,Washington,M,peter.washington@bp.com,173226,DALLAS,,20
+971640,Clarence,Ross,M,clarence.ross@apple.com,165272,CHICAGO,,20
+253573,Sharon,Lopez,F,sharon.lopez@gmail.com,190139,CHICAGO,,20
+904898,Ann,Cooper,F,ann.cooper@exxonmobil.com,182521,DALLAS,,20
+515103,Anne,Perez,F,anne.perez@sbcglobal.net,114426,DALLAS,,10
+491943,Nancy,Howard,F,nancy.howard@gmail.com,101553,CHICAGO,,30
+750173,Antonio,Roberts,M,antonio.roberts@hotmail.com,181646,CHICAGO,,30
+687017,Frances,Watson,F,frances.watson@outlook.com,46945,NEW YORK,,30
+241882,Debra,Wood,F,debra.wood@hotmail.com,84318,NEW YORK,,10
+758872,Henry,Jenkins,M,henry.jenkins@hotmail.com,102384,DALLAS,,10
+940922,Melissa,Butler,F,melissa.butler@hotmail.com,167631,DALLAS,,20
+917937,Todd,Hall,M,todd.hall@yahoo.com,163560,CHICAGO,,20
+917395,Christopher,Nelson,M,christopher.nelson@aol.com,190765,CHICAGO,,30
+183071,Andrea,Garcia,F,andrea.garcia@aol.com,54179,DALLAS,,30
+316110,Jeremy,Sanchez,M,jeremy.sanchez@hotmail.com,178847,CHICAGO,,20
+293459,Steven,Phillips,M,steven.phillips@hotmail.com,90108,CHICAGO,,10
+732017,Cynthia,Ramirez,F,cynthia.ramirez@btinternet.com,90531,CHICAGO,,10
+915638,Jason,Anderson,M,jason.anderson@gmail.com,76636,CHICAGO,,10
+478003,Cynthia,White,F,cynthia.white@gmail.com,186200,DALLAS,,20
+951225,Margaret,Brooks,F,margaret.brooks@gmail.com,43867,DALLAS,,20
+883936,Douglas,Flores,M,douglas.flores@gmail.com,181793,CHICAGO,,20
+528673,Paul,Watson,M,paul.watson@hotmail.com,145235,CHICAGO,,30
+765850,Linda,Moore,F,linda.moore@gmail.com,113256,NEW YORK,,30
+262382,Cheryl,Miller,F,cheryl.miller@ntlworld.com,64143,NEW YORK,,30
+870820,Martha,Washington,F,martha.washington@aol.com,116629,DALLAS,,30
+806955,William,Hernandez,M,william.hernandez@rediffmail.com,73734,DALLAS,,30
+325319,Carolyn,Price,F,carolyn.price@yahoo.com,48736,CHICAGO,,10
+623253,Ruby,Stewart,F,ruby.stewart@gmail.com,174774,CHICAGO,,20
+225925,Paul,Cooper,M,paul.cooper@gmail.com,73526,DALLAS,,20
+761821,Ernest,Washington,M,ernest.washington@msn.com,176675,CHICAGO,,20
+400173,Dorothy,Edwards,F,dorothy.edwards@hotmail.co.uk,179017,CHICAGO,,20
+802554,Ryan,Alexander,M,ryan.alexander@shell.com,106628,CHICAGO,,10
+476433,Lillian,Mitchell,F,lillian.mitchell@shaw.ca,149878,DALLAS,,30
+533952,Kelly,Adams,F,kelly.adams@bp.com,51878,CHICAGO,,10
+623929,Jimmy,Howard,M,jimmy.howard@yahoo.com,120631,NEW YORK,,20
+844177,Margaret,Allen,F,margaret.allen@gmail.com,180107,DALLAS,,20
+212893,Janet,Henderson,F,janet.henderson@ntlworld.com,114481,CHICAGO,,20
+185032,Eugene,Perez,M,eugene.perez@exxonmobil.com,122950,DALLAS,,20
+867084,Deborah,Smith,F,deborah.smith@yahoo.com,52767,NEW YORK,,10
+969964,Janice,Parker,F,janice.parker@yahoo.com,147641,CHICAGO,,30
+158666,Rebecca,Stewart,F,rebecca.stewart@gmail.com,160043,NEW YORK,,30
+489424,Phillip,White,M,phillip.white@gmail.com,181774,CHICAGO,,30
+639892,Jose,Hill,M,jose.hill@hotmail.com,129774,CHICAGO,,10
+704709,Harold,Nelson,M,harold.nelson@gmail.com,156194,NEW YORK,,10
+461593,Nicole,Ward,F,nicole.ward@yahoo.com,95673,NEW YORK,,20
+392491,Theresa,Murphy,F,theresa.murphy@gmail.com,51015,DALLAS,,20
+495141,Tammy,Young,F,tammy.young@comcast.net,93650,DALLAS,,30
